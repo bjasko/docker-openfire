@@ -3,7 +3,7 @@
 
 ## build
 
-     docker build -t openfire 
+     docker build -t openfire .
 
 ## run
 
